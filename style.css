@@ -1,0 +1,66 @@
+h1{
+  font-size: 50px;
+}
+h2{
+  font-size: 40px;
+}
+h3{
+  color: tomato;
+}
+p{
+  font-size: 20px;
+}
+
+.jk-span{
+  color: blueviolet;
+}
+.jk{
+  font-size: 50px;
+}
+.flexible{
+  display: flex;  
+  margin-bottom: 150px;
+}
+.half-sec{
+  width: 50%;
+  padding-left: 3%;
+  padding-top: 2%;
+}
+.half-sec img{
+  width: 80%;
+  
+}
+.special{
+  background-color: chartreuse;
+}
+.link-button{
+  text-decoration: none;
+  background-color: crimson;
+  padding: 10px 20px;
+  color: white;
+  background-image: linear-gradient( blue, tomato);
+  font-weight: 700;
+}
+.web{
+  box-shadow: 10px 10px 30px blue;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  border-radius: 10px;
+}
+#web-1{
+  border-left: 10px solid;
+  border-image: linear-gradient(greenyellow, red);
+  border-image-slice: 1;
+}
+#web-2{
+  border-left: 10px solid;
+  border-image: linear-gradient(tomato, blueviolet);
+  border-image-slice: 1;
+}
+footer{
+  text-align: center;
+  color: darkorange;
+  font-weight: 700;
+}
